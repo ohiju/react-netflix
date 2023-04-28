@@ -26,7 +26,7 @@ export default function SearchPage() {
     const fetchSearchMovie = async () => {
         try {
             const request = await axios.get(
-                `search/multi?include_adult=true&query=${searchTerm}&exclude_adult=false`
+                `search/multi?include_adult=false&query=${searchTerm}`
             );
             setSearchResults(request.data.results);
         } catch (error) {
