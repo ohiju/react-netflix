@@ -1,4 +1,38 @@
-# Getting Started with Create React App
+# Netflix Clone App with React.js
+
+Building Netflix front-end page using React.js. 
+
+## Goals
+
+- Using Swiper Module for Slides
+- use Debounce for search bar
+- Client Side Routing
+- Use Custom Hooks when building Modules
+
+## used API and Modules
+- MOVIE DB API : https://www.themovidb.org 
+
+- Axios Module, you can install by: **npm install axios --save**
+
+
+- Styled Component Library, you can install by: **npm install --save styled-components**
+
+
+- React Router Dom, you can install by: **npm install react-router-dom --save**
+
+
+- Swiper Module: https://swiperjs.com/react#usage
+
+
+
+
+<br>
+You can check the result in here : https://ohiju.github.io/react-netflix/
+<br>
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
