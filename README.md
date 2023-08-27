@@ -1,5 +1,7 @@
 # Netflix Clone App with React.js
 
+*Check the result here:* https://ohiju.github.io/react-netflix/
+
 Building Netflix front-end page using React.js. 
 
 ## Goals
@@ -22,13 +24,6 @@ Building Netflix front-end page using React.js.
 
 
 - Swiper Module: https://swiperjs.com/react#usage
-
-
-
-
-<br>
-You can check the result in here : https://ohiju.github.io/react-netflix/
-<br>
 
 
 
