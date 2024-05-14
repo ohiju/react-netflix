@@ -1,4 +1,4 @@
-# Netflix Clone App with React.js
+# Netflix Clone App with React.js 
 
 *Check the result here:* https://ohiju.github.io/react-netflix/
 
